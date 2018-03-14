@@ -1,7 +1,7 @@
 # AdminFind
 Scan admin login with this tools!
 * Simple
-* 841 Admin Panel Scan
+* 870 Admin Panel Scan
 * Using list.txt to bruteforce admin panel
 
 ## Usage
