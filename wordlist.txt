@@ -1,5 +1,6 @@
 admin
 admincp
+admin/a
 admincp/login
 admincp/user
 admincp/admin
