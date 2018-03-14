@@ -154,7 +154,7 @@ import httplib, httplib2
 
 domain = args.url
 url = str(domain.strip())
-wordlist = [line.strip() for line in open(args.wordlist, 'r')]
+wordlist = [line.strip() for line in open("wordlist.txt", 'r')]
 signal.signal(signal.SIGINT, killpid)
 queueLock = Lock()
 workQueue = Queue.Queue(len(wordlist))
