@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Author: BlackXploits©
+# Telegram: @BlackXploits
+
+# Please don't delete this COPYRIGHT©
 
 import argparse
 import subprocess
